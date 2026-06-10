@@ -1,0 +1,6 @@
+{
+  "name": "SKOV Vent",
+  "description": "Premium Poultry Ventilation Management application engineered on standard scientific equations for SKOV style climates (Minimum, Transitional, and Tunnel modes)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
